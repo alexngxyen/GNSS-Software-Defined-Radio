@@ -1,2 +1,2 @@
 # GNSS-Software-Defined-Radio
-GPS software-defined receiver (SDR) course project which acquires and tracks a single GPS L1 C/A signal. Furthermore, the navigation solution (given in ECEF coordinates) will be found using the last recorded pseudorange measurments at satellite vehicle transmission.
+GPS software-defined receiver (SDR) course project which acquires and tracks Global Positioning System (GPS) L1 C/A signals. Also, the navigation solution given in Earth-Centered, Earth-Fixed (ECEF) coordinates was determined using the last recorded pseudorange measurments from the transmitting satellite vehicle (SV).
